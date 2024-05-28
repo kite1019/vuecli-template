@@ -1,0 +1,754 @@
+{
+    "data": [
+      {
+        "slot": "202404251200",
+        "date": "20240425",
+        "time": "12:00",
+        "status": "now",
+        "startTime": "2024-04-25 12:00:00",
+        "endTime": "2024-04-25 15:59:00",
+        "products": [
+          {
+            "id": "DBDF00-1900C1N6F",
+            "name": "大研生醫 德國頂級魚油(60粒x6盒)",
+            "slogan": "滿5千限量送3好禮",
+            "url": "https://24h.pchome.com.tw/prod/DBDF00-1900C1N6F",
+            "sorted": 0,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/a764231c-d1be-4f17-98b0-ddf363964680.jpeg",
+            "price": {
+              "origin": 13500,
+              "onsale": 5088,
+              "unit": "件",
+              "discount": 38
+            }
+          },
+          {
+            "id": "DBCZ0B-A900HDQ0J",
+            "name": "哈根達斯 挺真Woman公益迷你杯12入組",
+            "slogan": "再送造型保冷袋",
+            "url": "https://24h.pchome.com.tw/prod/DBCZ0B-A900HDQ0J",
+            "sorted": 1,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/24af94db-6213-4868-9df9-ddd56a8d141f.jpeg",
+            "price": {
+              "origin": 1183,
+              "onsale": 899,
+              "unit": "件",
+              "discount": 76
+            }
+          },
+          {
+            "id": "DYAQ9M-A900HEPPS",
+            "name": "Sony ULT WEAR WH-ULT900N 無線降噪耳機",
+            "slogan": "新上 極致低音體驗",
+            "url": "https://24h.pchome.com.tw/prod/DYAQ9M-A900HEPPS",
+            "sorted": 2,
+            "image": "https://img.pchome.com.tw/cs/items/DYAQ9MA900HEPPS/000007_1713768858.jpg",
+            "price": {
+              "origin": 5990,
+              "onsale": 5990,
+              "unit": "件",
+              "discount": 0
+            }
+          },
+          {
+            "id": "DIDI0A-A900AC0KG",
+            "name": "三花 針織平口褲",
+            "slogan": "3件597 均1件199",
+            "url": "https://24h.pchome.com.tw/prod/DIDI0A-A900AC0KG",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DIDI0AA900AC0KG/000007_1703235899.jpg",
+            "price": {
+              "origin": 620,
+              "onsale": 597,
+              "unit": "件",
+              "discount": 97
+            }
+          },
+          {
+            "id": "DPADK9-A900GOV3H",
+            "name": "JVC 55吋4K窄邊框液晶顯示器",
+            "slogan": "下殺55折",
+            "url": "https://24h.pchome.com.tw/prod/DPADK9-A900GOV3H",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPADK9A900GOV3H/000007_1696489509.jpg",
+            "price": {
+              "origin": 19999,
+              "onsale": 10888,
+              "unit": "件",
+              "discount": 55
+            }
+          },
+          {
+            "id": "DPADFN-A900HDV5Y",
+            "name": "三星 55吋4K HDR智慧連網顯示器",
+            "slogan": "2024新機上市",
+            "url": "https://24h.pchome.com.tw/prod/DPADFN-A900HDV5Y",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPADFNA900HDV5Y/000007_1712912350.jpg",
+            "price": {
+              "origin": 28900,
+              "onsale": 25900,
+              "unit": null,
+              "discount": 9
+            }
+          },
+          {
+            "id": "DEDJ1G-A900GZS19",
+            "name": "樂高 80113 樂滿樓",
+            "slogan": "指定支付最高11%回饋",
+            "url": "https://24h.pchome.com.tw/prod/DEDJ1G-A900GZS19",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DEDJ1GA900GZS19/000007_1702977337.jpg",
+            "price": {
+              "origin": 3599,
+              "onsale": 2879,
+              "unit": null,
+              "discount": 8
+            }
+          },
+          {
+            "id": "DDBK3H-1900H2YH1",
+            "name": "花王KAO 蒸氣眼罩12枚6盒",
+            "slogan": "台日熱銷 均$15.3/入",
+            "url": "https://24h.pchome.com.tw/prod/DDBK3H-1900H2YH1",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DDBK3H1900H2YH1/000007_1705370936.jpg",
+            "price": {
+              "origin": 2394,
+              "onsale": 1099,
+              "unit": null,
+              "discount": 46
+            }
+          },
+          {
+            "id": "DRAB46-A900GRJB5",
+            "name": "WD 紅標Plus 4TB 3.5吋 NAS硬碟",
+            "slogan": "加碼10%P幣",
+            "url": "https://24h.pchome.com.tw/prod/DRAB46-A900GRJB5",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DRAB46A900GRJB5/000007_1698206212.jpg",
+            "price": {
+              "origin": 4380,
+              "onsale": 3490,
+              "unit": null,
+              "discount": 8
+            }
+          },
+          {
+            "id": "DEAY3R-1900GXEIL",
+            "name": "BRITA MAXTRA Plus 濾芯去水垢 15入",
+            "slogan": "下單贈限量200P幣",
+            "url": "https://24h.pchome.com.tw/prod/DEAY3R-1900GXEIL",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DEAY3R1900GXEIL/000007_1700711613.jpg",
+            "price": {
+              "origin": 5250,
+              "onsale": 3129,
+              "unit": null,
+              "discount": 6
+            }
+          }
+        ]
+      },
+      {
+        "slot": "202404251600",
+        "date": "20240425",
+        "time": "16:00",
+        "status": "ready",
+        "startTime": "2024-04-25 16:00:00",
+        "endTime": "2024-04-25 20:59:00",
+        "products": [
+          {
+            "id": "DFAW00-1900HED3G",
+            "name": "m2 美度 超能膠原飲(50mlx8入/盒x8)",
+            "slogan": "送膠原C(15入x4)",
+            "url": "https://24h.pchome.com.tw/prod/DFAW00-1900HED3G",
+            "sorted": 0,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/80b9e0e8-d7ca-4281-b7e1-d55c0a8525e2.jpeg",
+            "price": {
+              "origin": 11040,
+              "onsale": 5380,
+              "unit": null,
+              "discount": 49
+            }
+          },
+          {
+            "id": "DBAY49-1900GE4WS",
+            "name": "一蘭博多細麵5入/2盒",
+            "slogan": "限時再折121",
+            "url": "https://24h.pchome.com.tw/prod/DBAY49-1900GE4WS",
+            "sorted": 1,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/724e64c7-cbb2-498b-b248-e5d6407f3f1e.jpeg",
+            "price": {
+              "origin": 1580,
+              "onsale": 1580,
+              "unit": null,
+              "discount": 0
+            }
+          },
+          {
+            "id": "DHAFOF-1900H3CIK",
+            "name": "ASUS 15.6吋效能筆電",
+            "slogan": "加碼送10%P幣+M365",
+            "url": "https://24h.pchome.com.tw/prod/DHAFOF-1900H3CIK",
+            "sorted": 2,
+            "image": "https://img.pchome.com.tw/cs/items/DHAFOF1900H3CIK/000007_1712805769.jpg",
+            "price": {
+              "origin": 23999,
+              "onsale": 21999,
+              "unit": null,
+              "discount": 92
+            }
+          },
+          {
+            "id": "DAAG4E-A900A8NSK",
+            "name": "倍潔雅 純萃抽取衛生紙150抽60包",
+            "slogan": "滿千登記送100P",
+            "url": "https://24h.pchome.com.tw/prod/DAAG4E-A900A8NSK",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DAAG4EA900A8NSK/000007_1698027031.jpg",
+            "price": {
+              "origin": 659,
+              "onsale": 659,
+              "unit": null,
+              "discount": 0
+            }
+          },
+          {
+            "id": "DPADFN-A900HE76A",
+            "name": "三星 43吋4K HDR智慧連網顯示器",
+            "slogan": "2024新機上市",
+            "url": "https://24h.pchome.com.tw/prod/DPADFN-A900HE76A",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPADFNA900HE76A/000007_1713259383.jpg",
+            "price": {
+              "origin": 23900,
+              "onsale": 20900,
+              "unit": null,
+              "discount": 88
+            }
+          },
+          {
+            "id": "DEDJ04-A900F6AGT",
+            "name": "樂高 60336 貨物列車",
+            "slogan": "指定支付最高11%回饋",
+            "url": "https://24h.pchome.com.tw/prod/DEDJ04-A900F6AGT",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DEDJ04A900F6AGT/000007_1655102292.jpg",
+            "price": {
+              "origin": 5999,
+              "onsale": 4199,
+              "unit": null,
+              "discount": 7
+            }
+          },
+          {
+            "id": "DJAD3J-A900GDBQJ",
+            "name": "持續買進",
+            "slogan": "致富不敗法則",
+            "url": "https://24h.pchome.com.tw/prod/DJAD3J-A900GDBQJ",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DJAD3JA900GDBQJ/000007_1713943105.jpg",
+            "price": {
+              "origin": 400,
+              "onsale": 278,
+              "unit": null,
+              "discount": 7
+            }
+          },
+          {
+            "id": "DMBJ2H-A900AZBH4",
+            "name": "日立30L水蒸氣烘烤微波爐",
+            "slogan": "享4%P幣,獨家加碼雙好禮",
+            "url": "https://24h.pchome.com.tw/prod/DMBJ2H-A900AZBH4",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DMBJ2HA900AZBH4/000007_1654234633.jpg",
+            "price": {
+              "origin": 31900,
+              "onsale": 29348,
+              "unit": null,
+              "discount": 92
+            }
+          },
+          {
+            "id": "DFAX00-1900HF62R",
+            "name": "義美生醫 乳清蛋白飲-可可(35g*10包)X5盒",
+            "slogan": "限時5盒$1480",
+            "url": "https://24h.pchome.com.tw/prod/DFAX00-1900HF62R",
+            "sorted": null,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/f2730117-9ace-4169-b0bc-fd80021ecb42.jpeg",
+            "price": {
+              "origin": 2000,
+              "onsale": 1480,
+              "unit": null,
+              "discount": 74
+            }
+          },
+          {
+            "id": "DYAJEP-A900H3MSK",
+            "name": "MacBook Pro16 Apple M2 Pro",
+            "slogan": "指定單機降$4000",
+            "url": "https://24h.pchome.com.tw/prod/DYAJEP-A900H3MSK",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DYAJEPA900H3MSK/000007_1705918348.jpg",
+            "price": {
+              "origin": 61900,
+              "onsale": 57900,
+              "unit": null,
+              "discount": 94
+            }
+          }
+        ]
+      },
+      {
+        "slot": "202404252100",
+        "date": "20240425",
+        "time": "21:00",
+        "status": "ready",
+        "startTime": "2024-04-25 21:00:00",
+        "endTime": "2024-04-25 23:59:00",
+        "products": [
+          {
+            "id": "DABC7Y-A900BAYZ9",
+            "name": "中衛 醫療口罩(50片*3盒)",
+            "slogan": "今日限定 3盒$399",
+            "url": "https://24h.pchome.com.tw/prod/DABC7Y-A900BAYZ9",
+            "sorted": 0,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/f52e261e-8062-4fbc-a7f2-cfd39342b445.jpeg",
+            "price": {
+              "origin": 750,
+              "onsale": 2.7,
+              "unit": "片",
+              "discount": null
+            }
+          },
+          {
+            "id": "DBATC0-1900B8OPG",
+            "name": "UCC濾掛式咖啡綜合6盒組",
+            "slogan": "滿$899登記送100P幣(限量)",
+            "url": "https://24h.pchome.com.tw/prod/DBATC0-1900B8OPG",
+            "sorted": 1,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/13ed038d-3aa8-46a7-8d0c-f5446dc7116f.jpeg",
+            "price": {
+              "origin": 1410,
+              "onsale": 569,
+              "unit": null,
+              "discount": 41
+            }
+          },
+          {
+            "id": "DCBT0K-A900H3E3V",
+            "name": "雷蛇Iskur V2 電競椅-綠",
+            "slogan": "加碼10%P幣",
+            "url": "https://24h.pchome.com.tw/prod/DCBT0K-A900H3E3V",
+            "sorted": 2,
+            "image": "https://img.pchome.com.tw/cs/items/DCBT0KA900H3E3V/000007_1705567926.jpg",
+            "price": {
+              "origin": 20990,
+              "onsale": 16990,
+              "unit": null,
+              "discount": 81
+            }
+          },
+          {
+            "id": "DEDJ0O-A900H02MZ",
+            "name": "樂高  76282 火箭浣熊和格魯特寶寶",
+            "slogan": "指定支付最高11%回饋",
+            "url": "https://24h.pchome.com.tw/prod/DEDJ0O-A900H02MZ",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DEDJ0OA900H02MZ/000007_1704163962.jpg",
+            "price": {
+              "origin": 2199,
+              "onsale": 1759,
+              "unit": null,
+              "discount": 8
+            }
+          },
+          {
+            "id": "DYAJ02-1900GOW5P",
+            "name": "iPhone 15 Pro Max 256G",
+            "slogan": "殺再送超值配件",
+            "url": "https://24h.pchome.com.tw/prod/DYAJ02-1900GOW5P",
+            "sorted": null,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/aabc335f-66db-4ea7-b72b-f0934cf21d6d.jpeg",
+            "price": {
+              "origin": 44900,
+              "onsale": 42500,
+              "unit": null,
+              "discount": 95
+            }
+          },
+          {
+            "id": "DBBF2R-A900F5ZIF",
+            "name": "船井 極纖錠480顆黑色運動限定版",
+            "slogan": "下單點我折扣$168",
+            "url": "https://24h.pchome.com.tw/prod/DBBF2R-A900F5ZIF",
+            "sorted": null,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/57f24c5d-8043-42a2-a2e0-0dc1e6649707.jpeg",
+            "price": {
+              "origin": 16195,
+              "onsale": 4880,
+              "unit": null,
+              "discount": 31
+            }
+          },
+          {
+            "id": "DXBK00-A900HC2VH",
+            "name": "三陽 全新迪爵 125 碟煞 時鐘+USB充電版",
+            "slogan": "送2000P幣+丟車賠車保障",
+            "url": "https://24h.pchome.com.tw/prod/DXBK00-A900HC2VH",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DXBK00A900HC2VH/000007_1712127444.jpg",
+            "price": {
+              "origin": 69500,
+              "onsale": 69500,
+              "unit": null,
+              "discount": 0
+            }
+          },
+          {
+            "id": "DPADEW-A900GEMIK",
+            "name": "三星 65吋4K HDR OLED量子連網顯示器",
+            "slogan": "送延長保固一年",
+            "url": "https://24h.pchome.com.tw/prod/DPADEW-A900GEMIK",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPADEWA900GEMIK/000007_1686558082.jpg",
+            "price": {
+              "origin": 93900,
+              "onsale": 56900,
+              "unit": null,
+              "discount": 61
+            }
+          },
+          {
+            "id": "DICD1P-A900GCDGP",
+            "name": "Flymate 壓縮旅行收納袋-6件組",
+            "slogan": "指定卡最高回饋6%",
+            "url": "https://24h.pchome.com.tw/prod/DICD1P-A900GCDGP",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DICD1PA900GCDGP/000007_1684462454.jpg",
+            "price": {
+              "origin": 588,
+              "onsale": 499,
+              "unit": null,
+              "discount": 85
+            }
+          },
+          {
+            "id": "DYAWB5-A900H2QVR",
+            "name": "ROG Phone 8 (16/512)",
+            "slogan": "送666P再抽好禮!",
+            "url": "https://24h.pchome.com.tw/prod/DYAWB5-A900H2QVR",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DYAWB5A900H2QVR/000007_1705285261.jpg",
+            "price": {
+              "origin": 35490,
+              "onsale": 34990,
+              "unit": null,
+              "discount": 99
+            }
+          }
+        ]
+      },
+      {
+        "slot": "202404260000",
+        "date": "20240426",
+        "time": "00:00",
+        "status": "tomorrow",
+        "startTime": "2024-04-26 00:00:00",
+        "endTime": "2024-04-26 07:59:00",
+        "products": [
+          {
+            "id": "DDAD2P-A900GSKLS",
+            "name": "雅詩蘭黛 特潤超導全方位修護露 100ml",
+            "slogan": "小棕瓶狂殺31折",
+            "url": "https://24h.pchome.com.tw/prod/DDAD2P-A900GSKLS",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DDAD2PA900GSKLS/000007_1698827667.jpg",
+            "price": {
+              "origin": 7900,
+              "onsale": 2380,
+              "unit": null,
+              "discount": 31
+            }
+          },
+          {
+            "id": "DMBL3E-A900G4GVO",
+            "name": "追覓 L10s Ultra 全能掃拖旗艦機",
+            "slogan": "募資破億",
+            "url": "https://24h.pchome.com.tw/prod/DMBL3E-A900G4GVO",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DMBL3EA900G4GVO/000007_1678425847.jpg",
+            "price": {
+              "origin": 45480,
+              "onsale": 15980,
+              "unit": null,
+              "discount": 36
+            }
+          },
+          {
+            "id": "DDBH2F-A900GYJIT",
+            "name": "植村秀 無極限持久定妝噴霧100ml",
+            "slogan": "定妝保濕一瓶搞定",
+            "url": "https://24h.pchome.com.tw/prod/DDBH2F-A900GYJIT",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DDBH2FA900GYJIT/000007_1701307580.jpg",
+            "price": {
+              "origin": 1300,
+              "onsale": 750,
+              "unit": null,
+              "discount": 58
+            }
+          },
+          {
+            "id": "DEATZV-A900G48J5",
+            "name": "J-bedtime 素色天絲四季涼被",
+            "slogan": "2入$799 下殺均單$399.5",
+            "url": "https://24h.pchome.com.tw/prod/DEATZV-A900G48J5",
+            "sorted": null,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/24e0718d-826c-4111-96ca-a9f4296e81c1.jpeg",
+            "price": {
+              "origin": 1880,
+              "onsale": 590,
+              "unit": null,
+              "discount": 32
+            }
+          },
+          {
+            "id": "DPAFA5-1900HAQPD",
+            "name": "禾聯3-5坪變頻冷暖空調",
+            "slogan": "全機保固3年",
+            "url": "https://24h.pchome.com.tw/prod/DPAFA5-1900HAQPD",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPAFA51900HAQPD/000007_1710147728.jpg",
+            "price": {
+              "origin": 24400,
+              "onsale": 16590,
+              "unit": null,
+              "discount": 68
+            }
+          },
+          {
+            "id": "DMBN02-A900HDKOP",
+            "name": "Nespresso 膠囊咖啡機",
+            "slogan": "臻選80顆組",
+            "url": "https://24h.pchome.com.tw/prod/DMBN02-A900HDKOP",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DMBN02A900HDKOP/000007_1713110865.jpg",
+            "price": {
+              "origin": 6260,
+              "onsale": 4760,
+              "unit": null,
+              "discount": 77
+            }
+          },
+          {
+            "id": "DPAF40-A900AKWUA",
+            "name": "日立3-4坪變頻冷暖窗型空調",
+            "slogan": "早販好禮5選一",
+            "url": "https://24h.pchome.com.tw/prod/DPAF40-A900AKWUA",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPAF40A900AKWUA/000007_1672135572.jpg",
+            "price": {
+              "origin": 27290,
+              "onsale": 20467,
+              "unit": null,
+              "discount": 75
+            }
+          },
+          {
+            "id": "DYAU0B-A900HAUMV",
+            "name": "【DJB暢日卡PLUS】日本5天吃到飽不降速網卡",
+            "slogan": "4電信訊號 支援熱點分享",
+            "url": "https://24h.pchome.com.tw/prod/DYAU0B-A900HAUMV",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DYAU0BA900HAUMV/000007_1710221678.jpg",
+            "price": {
+              "origin": 790,
+              "onsale": 550,
+              "unit": null,
+              "discount": 7
+            }
+          },
+          {
+            "id": "DRAFH0-A900ENGOB",
+            "name": "ASUS ROG GT-AX6000 雙頻路由器",
+            "slogan": "極猛四核心博通晶片",
+            "url": "https://24h.pchome.com.tw/prod/DRAFH0-A900ENGOB",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DRAFH0A900ENGOB/000007_1646363076.jpg",
+            "price": {
+              "origin": 8990,
+              "onsale": 7988,
+              "unit": null,
+              "discount": 89
+            }
+          },
+          {
+            "id": "DEBLQJ-A900G7141",
+            "name": "KISSDIAMOND 超彈力防曬涼感外套",
+            "slogan": "頂級冰絲 多款可選",
+            "url": "https://24h.pchome.com.tw/prod/DEBLQJ-A900G7141",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DEBLQJA900G7141/000007_1686644703.jpg",
+            "price": {
+              "origin": 1380,
+              "onsale": 495,
+              "unit": "件",
+              "discount": null
+            }
+          }
+        ]
+      },
+      {
+        "slot": "202404260800",
+        "date": "20240426",
+        "time": "08:00",
+        "status": "tomorrow",
+        "startTime": "2024-04-26 08:00:00",
+        "endTime": "2024-04-26 11:59:00",
+        "products": [
+          {
+            "id": "DAAG0S-A900GZBFC",
+            "name": "舒潔 棉柔抽取衛生紙(100抽x72包)",
+            "slogan": "送80P 滿額送好禮",
+            "url": "https://24h.pchome.com.tw/prod/DAAG0S-A900GZBFC",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DAAG0SA900GZBFC/000007_1701938034.jpg",
+            "price": {
+              "origin": 1679,
+              "onsale": 999,
+              "unit": null,
+              "discount": 6
+            }
+          },
+          {
+            "id": "DPAFA7-1900H2JL7",
+            "name": "台灣三洋4-6坪變頻冷暖空調",
+            "slogan": "加碼送Dashiang牛奶鍋",
+            "url": "https://24h.pchome.com.tw/prod/DPAFA7-1900H2JL7",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPAFA71900H2JL7/000007_1704763291.jpg",
+            "price": {
+              "origin": 40390,
+              "onsale": 17900,
+              "unit": null,
+              "discount": 45
+            }
+          },
+          {
+            "id": "DMBN05-A900EQT01",
+            "name": "Nespresso 膠囊咖啡機 拿鐵盛宴咖啡50顆組",
+            "slogan": "組合享優惠",
+            "url": "https://24h.pchome.com.tw/prod/DMBN05-A900EQT01",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DMBN05A900EQT01/000007_1698057247.jpg",
+            "price": {
+              "origin": 16680,
+              "onsale": 14380,
+              "unit": null,
+              "discount": 87
+            }
+          },
+          {
+            "id": "DPAFC4-1900H1W2Q",
+            "name": "台灣三洋7-9坪變頻冷暖空調",
+            "slogan": "加碼送Dashiang牛奶鍋",
+            "url": "https://24h.pchome.com.tw/prod/DPAFC4-1900H1W2Q",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPAFC41900H1W2Q/000007_1703833923.jpg",
+            "price": {
+              "origin": 38400,
+              "onsale": 28900,
+              "unit": null,
+              "discount": 76
+            }
+          },
+          {
+            "id": "DXAA5Y-A90092MRN",
+            "name": "米其林 數位設定高速自動打氣機 12266",
+            "slogan": "精裝版含原廠制震收納盒",
+            "url": "https://24h.pchome.com.tw/prod/DXAA5Y-A90092MRN",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DXAA5YA90092MRN/000007_1678848681.jpg",
+            "price": {
+              "origin": 3980,
+              "onsale": 1580,
+              "unit": null,
+              "discount": 4
+            }
+          },
+          {
+            "id": "DAAL04-1900BHFG6",
+            "name": "舒酸定 專業修復抗敏牙膏100gx8入",
+            "slogan": "現省111再送北歐單柄鍋",
+            "url": "https://24h.pchome.com.tw/prod/DAAL04-1900BHFG6",
+            "sorted": null,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/c286151d-fe18-41d7-952e-19981e83312a.jpeg",
+            "price": {
+              "origin": 2232,
+              "onsale": 1078,
+              "unit": null,
+              "discount": 49
+            }
+          },
+          {
+            "id": "DEAC9N-A900D7DTG",
+            "name": "Panrico 百利世 12V鋰電無碳刷震動電鑽",
+            "slogan": "P幣最高回饋4%",
+            "url": "https://24h.pchome.com.tw/prod/DEAC9N-A900D7DTG",
+            "sorted": null,
+            "image": "https://cs-f.ecimg.tw/cms/creatives/onsale/a7848810-a476-4446-9dd9-c387de9cbf04.jpeg",
+            "price": {
+              "origin": 4950,
+              "onsale": 1899,
+              "unit": null,
+              "discount": 39
+            }
+          },
+          {
+            "id": "DPADN9-1900G1AIK",
+            "name": "夏普60吋4K安卓聯網液晶顯示器",
+            "slogan": "專案下殺61折",
+            "url": "https://24h.pchome.com.tw/prod/DPADN9-1900G1AIK",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DPADN91900G1AIK/000007_1698909278.jpg",
+            "price": {
+              "origin": 27900,
+              "onsale": 16900,
+              "unit": null,
+              "discount": 61
+            }
+          },
+          {
+            "id": "DCADJ5-1900HEP30",
+            "name": "金士頓 USB-C 集線器",
+            "slogan": "指定卡最高回饋4%",
+            "url": "https://24h.pchome.com.tw/prod/DCADJ5-1900HEP30",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DCADJ51900HEP30/000007_1713495450.jpg",
+            "price": {
+              "origin": 699,
+              "onsale": 699,
+              "unit": null,
+              "discount": 0
+            }
+          },
+          {
+            "id": "DYAQ9D-A900GPNHO",
+            "name": "Philips TAH4205 無線耳罩式耳機",
+            "slogan": "獨家36折 免千入手",
+            "url": "https://24h.pchome.com.tw/prod/DYAQ9D-A900GPNHO",
+            "sorted": null,
+            "image": "https://img.pchome.com.tw/cs/items/DYAQ9DA900GPNHO/000007_1712141477.jpg",
+            "price": {
+              "origin": 1990,
+              "onsale": 699,
+              "unit": null,
+              "discount": 36
+            }
+          }
+        ]
+      }
+    ]
+  }
