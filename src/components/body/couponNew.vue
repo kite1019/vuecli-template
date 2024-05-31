@@ -279,7 +279,7 @@ export default {
 								this.collectionData = collectionData;
 								
 								// console.log('登入狀態 loginID: ',loginID);
-								console.log('沒領的vipNotCollected: ', vipNotCollected);
+								// console.log('沒領的vipNotCollected: ', vipNotCollected);
 								// console.log('全站券actCouponData: ', actCouponData);
 								// console.log('品類券collectionData: ', collectionData);
 							});

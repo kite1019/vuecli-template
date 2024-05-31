@@ -87,6 +87,12 @@
         </section>
         <!-- 限時瘋搶 -->
 
+        <!-- 超取館 -->
+        <section id="prods">
+            <storePickUp/>
+        </section>
+        <!-- END // 超取館 -->
+
         <!-- 人氣必搶 -->
         <section id="sbdpreview" v-if="onCardSlideData !=''">
             <div class="h6">
@@ -328,8 +334,11 @@ import cardSlide from './components/body/cardSlide.vue'
 import couponNew from './components/body/couponNew.vue'
 import superPD from './components/body/superPD.vue'
 import superPDnHero from './components/body/superPD-hero.vue'
+import storePickUp from './components/body/storePickUp.vue'
 
 // CSS
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 import 'swiper/css/bundle'
 import '@/assets/css/layout.css';
 
@@ -385,6 +394,7 @@ export default {
         tabsPD,
         superPD,
         superPDnHero,
+        storePickUp,
     },
     setup() {
         return {
@@ -507,7 +517,7 @@ function initSetting() {
 </script>
 
 <style>
-/* @import "~bootstrap/dist/css/bootstrap.css"; */
+
 #app {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;

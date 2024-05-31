@@ -16,6 +16,11 @@ const hashMenu = [
         "hash": "dailysale"
     },
     {
+        "name": "超取館",
+        "data": "prodsAllPd",
+        "hash": "prods"
+    },
+    {
         "name": "必搶預告",
         "data": "onCardSlideData",
         "hash": "sbdpreview"

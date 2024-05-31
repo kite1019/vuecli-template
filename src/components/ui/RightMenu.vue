@@ -8,7 +8,7 @@
         <ul class="menu_box nav navbar-nav" id="navbar">
 			<li data-scroll-active="kv" class="noline"></li>
             <template v-for="(item, index) in hashMenu" :key="index">
-                <li :data-scroll-active="item.hash" v-if="hasData(item.data)" :id="'nv-'+ item.hash">
+				<li :data-scroll-active="item.hash" :id="'nv-'+ item.hash" v-if="item.data === 'prodsAllPd' || hasData(item.data)">
                     <a :href="'#' + item.hash" @click.prevent v-html="'<i></i>' + item.name"></a>
                 </li>
             </template>
@@ -46,7 +46,7 @@ export default {
         // 動態檢查 hashMenu 中每個 data 是否有內容
         hasData() {
             return dataName => {
-                return this.$parent[dataName] && this.$parent[dataName].length > 0;
+                return this.$parent[dataName] && this.$parent[dataName] != '';
             };
         }
     },
