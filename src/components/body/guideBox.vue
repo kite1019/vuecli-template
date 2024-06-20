@@ -20,7 +20,7 @@
                                 delay: 3000,
                                 disableOnInteraction: false,
                             }"
-                            >
+                            style="overflow: hidden;">
                                 <swiper-slide v-for="item in bnHeroData" :key="item.uniqueIdentifier">
                                     <slideBn :item="item"/>
                                 </swiper-slide>

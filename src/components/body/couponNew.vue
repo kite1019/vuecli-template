@@ -149,8 +149,8 @@ export default {
         let actCoupon = [];
         let collection = [];
         toDataArr(IndexBlock);
-        dataNode(actCoupon, 673);
-        dataNode(collection, 684);
+        dataNode(actCoupon, 1070);
+        dataNode(collection, 1080);
 
 
         // ----------------------------------------------
