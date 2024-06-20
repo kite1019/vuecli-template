@@ -337,10 +337,10 @@ import superPDnHero from './components/body/superPD-hero.vue'
 import storePickUp from './components/body/storePickUp.vue'
 
 // CSS
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'swiper/css/bundle'
-import '@/assets/css/layout.css';
+// import '@/assets/css/layout.css';
+import '@/scss/layout.scss';
 
 export default {
     name: 'App',

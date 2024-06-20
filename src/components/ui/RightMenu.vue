@@ -84,7 +84,7 @@ export default {
 		pointer-events: auto;
 		position: static;
 		border-radius: 10px;
-		background-color: rgba($color: #fff, $alpha: .9);
+		background-color: rgba($color: #36cee5, $alpha: .9);
 	}
     .menu_box {
 		// margin-right: 5px;

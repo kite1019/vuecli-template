@@ -3,10 +3,12 @@
         <div class="h6" style="font-size: 3rem; text-align: center; margin: 2rem auto 2rem">超取館</div>
         <ul class="row promo">
             <template v-for="(item, index) in prodsAllPd" :key="index">
-                <li class="col">
+                <li class="col-lg-3 col-6">
                     <a :href="'https://24h.pchome.com.tw/prod/' + item.Id" target="_blank">
                         <div class="pic">
-                            <img :src="'https://img.pchome.com.tw/cs' + item.Pic.W + '?width=320'" class="d-block" :alt="item.Name">
+                            <img :src="'https://img.pchome.com.tw/cs' + 
+                            (item.Pic.W === null ?  item.Pic.S : item.Pic.W )
+                            + '?width=320'" class="d-block" :alt="item.Name">
                         </div>
                         <div class="pd_title">{{ item.Name }}</div>
                         <div class="price">
@@ -47,7 +49,7 @@ export default {
         },
         async fetchStoreListData() {
             const storeName = 'DAAL67'; //館名
-            const countNum = '20'; //要取的數量，最少20
+            const countNum = '40'; //要取的數量，最少20
             const dataURL = `https://ecshweb.pchome.com.tw/search/v4.3/all/results?cateid=${storeName}&attr=&pageCount=${countNum}&_callback=jsonpcb_pdlist`;
             try {
                 const response = await fetchJsonp(
@@ -56,7 +58,9 @@ export default {
                 );
                 const jsonData = await response.json();
                 this.prodsList = jsonData.Prods; //更新組件狀態
-                this.fetchProdData(); //取得List資料後，執行取內容
+                setTimeout(() => {
+                    this.fetchProdData(); //取得List資料後，執行取內容
+                }, 100);
             } catch (error) {
                 console.log(`活動資訊解析失敗: ${error}`);
             }
@@ -72,7 +76,7 @@ export default {
                     );
                     const jsonData = await response.json();
                     // 更新組件狀態，轉換為數組，並隨機排序
-                    this.prodsAllPd = this.getRandomProducts(Object.values(jsonData), 10);
+                    this.prodsAllPd = this.getRandomProducts(Object.values(jsonData), 8);
                 } catch (error) {
                     console.log(`活動資訊解析失敗: ${error}`);
                 }
@@ -94,8 +98,8 @@ $priceColor: #ea0651;
     li {
         padding: 0 8px;
         margin-bottom: 20px;
-        width: 20%;
-        flex: auto;
+        /* width: 20%;
+        flex: auto; */
         @media only screen and (max-width: 991px) {
             padding: 0 5px;
             width: 50%;

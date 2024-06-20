@@ -1,4 +1,5 @@
 <template>
+	<!-- ID: {{ loginID }} -->
 	<ul class="row couponBox mt-1" v-if="actCoupon">
         <template v-for="(item, index) in actCouponData" :key="item.uniqueIdentifier" >
 			<li class="col-lg-6 col-12" :id="item.Id">
@@ -63,11 +64,10 @@
 	</div>
     <div class="getAll d-flex justify-content-center">
 		<a id="getAllcoupon" class="btn" :href="getAllLinkUrl()" @click="getAllCouponClick()">
-			<img src="@/assets/6-coupon/btn_getAllcoupon.png" alt="一鍵領取" class="d-block">
+			<span>一鍵領取 <i></i> <small>限量用完為止</small> </span>
 		</a>
-        <a href="https://24h.pchome.com.tw/activity/coupon" class="btn moreCoupon" target="_blank">
-			<img src="@/assets/6-coupon/btn_more.png" alt="更多折價券" class="d-block">
-		</a>
+
+        <a href="https://24h.pchome.com.tw/activity/coupon" class="btn moreCoupon" target="_blank">更多折價券</a>    
     </div>
 
     <!-- 領取訊息 -->
@@ -149,8 +149,8 @@ export default {
         let actCoupon = [];
         let collection = [];
         toDataArr(IndexBlock);
-        dataNode(actCoupon, 673);
-        dataNode(collection, 684);
+        dataNode(actCoupon, 1070);
+        dataNode(collection, 1080);
 
 
         // ----------------------------------------------
@@ -224,7 +224,6 @@ export default {
 					timeout: 1500
 				});
 				loginID = await response.json(); // 將資料儲存至全域變數
-				console.log(loginID);
 			} catch (error) {
 				console.log(`活動資訊解析失敗: ${error}`);
 			}
@@ -310,13 +309,12 @@ export default {
             }
 		},
         // 共用判斷 Status 折價券狀態
-        // Progress：進行中，  UseStart：兌換開始，  UseFinish：兌換結束
+        // Progress：進行中(點領)，  UseStart：兌換開始，  UseFinish：兌換結束
         isStatusActive(item) {
             const Status =  item.Status;
 			const statusSet = 
-				Status === 'Progress' || Status === 'UseStart' 
-					? 'open' : Status === 'UseFinish' 
-					? 'close' : ''; //default
+				Status === 'Progress' || Status === 'UseStart' ? 'open' 
+				: Status === 'UseFinish' ? 'close' : ''; //default
 
 			return statusSet;
         },
@@ -496,11 +494,11 @@ export default {
 			});
 			// allCouponid有資料，則post
 			if (allCouponid != '') {
-				console.log('get it: ',allCouponid, '- ', couponCount);
+				console.log('get it: ',allCouponid);
 				// 領取折價券
 				this.postCoupon(allCouponid, 0, 'getAllCoupon');
 			} else {
-				console.log('all yes');
+				// console.log('all yes');
 				this.checkLogin(0, 'getAllCoupon');
 			}
 		},
@@ -553,7 +551,7 @@ export default {
 							case 'getAllCoupon':
 								// 一鍵全領
 								couponAllLink.classList.add('pe-none');
-								// couponAllLink.innerHTML = '已全部領取<i></i><small>限量用完為止</small>';
+								couponAllLink.innerHTML = '已全部領取<i></i><small>限量用完為止</small>';
 								// 領取成功，檢查全部的coupon的
 								allGetLink.forEach(item => {
 									item.classList.remove('getmycoupon');
@@ -664,7 +662,7 @@ export default {
 						// console.log('還有沒領的',listType);
 						// 領取成功，不可再按
 						couponAllLink.classList.add('pe-none');
-						// couponAllLink.innerHTML = '已全部領取<i></i><small>限量用完為止</small>';
+						couponAllLink.innerHTML = '已全部領取<i></i><small>限量用完為止</small>';
 						allGetLink.forEach(item => {
 							item.classList.remove('getmycoupon');
 							item.classList.remove('got');

@@ -5,6 +5,11 @@
 		:effect="'coverflow'"
 		:grabCursor="true"
 		:pagination="{ clickable: true }"
+        :speed="600"
+        :autoplay="{
+            delay: 2500,
+            disableOnInteraction: false,
+        }"
 		:coverflowEffect="{
 			rotate: 35,
 			stretch: 0,
@@ -17,7 +22,7 @@
 			'415': { slidesPerView: 1.7, spaceBetween: 10, loopedSlides: 2, centeredSlides: true, },
 			'768': { slidesPerView: 2.4, spaceBetween: 20, loopedSlides: 3, centeredSlides: true,},
 			'1024': { slidesPerView: 2.8, spaceBetween: 20, loopedSlides: 3, centeredSlides: true, },
-			'1025': { slidesPerView: 4.2, spaceBetween: 10, loopedSlides: 4, centeredSlides: true, },
+			'1025': { slidesPerView: 4.2, spaceBetween: 10, loopedSlides: 2, centeredSlides: true, },
 		}"
 		:freeMode="false"
 	>

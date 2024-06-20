@@ -18,8 +18,8 @@
                     <div class="pic"><img :src="item.Img.Src" class="d-block" :alt="item.Link.Text"></div>
                     <div class="go" :class="item.Link.Url === '#nolink' ? 'd-none' : ''">GO</div>
                 </main>
-                <img src="@/assets/new/sbdpreview_bg_1.png" alt="bg" class="bg d-block" v-if="index === 0">
-                <img src="@/assets/new/sbdpreview_bg_2.png" alt="bg" class="bg d-block" v-else>
+                <!-- <img src="@/assets/new/sbdpreview_bg_1.png" alt="bg" class="bg d-block" v-if="index === 0"> -->
+                <img src="@/assets/new/sbdpreview_bg_2.png" alt="bg" class="bg d-block">
 			</a>
 		</swiper-slide>
 	</swiper>
