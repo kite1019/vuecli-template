@@ -1,3 +1,2 @@
-# activity-summer2024
+# VueCli Template
 
-酷夏樂購節
